@@ -32,3 +32,6 @@ Your app should now be accessible at http://localhost:3000.
 
 ## Source
 [Learn to Build Modern Web Apps with MEAN -- Thinkster](https://thinkster.io/tutorials/mean-stack)
+<br />
+<br />
+[PDF version found here](https://www.academia.edu/11207426/AngularJS_Tutorial_Learn_to_Build_Modern_Web_Apps_with_MEAN_angulartutorial)
