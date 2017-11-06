@@ -28,5 +28,7 @@ cd flapper-news
 npm start
 ````
 
+Your app should now be accessible at http://localhost:3000.
+
 ## Source
 [Learn to Build Modern Web Apps with MEAN -- Thinkster](https://thinkster.io/tutorials/mean-stack)
