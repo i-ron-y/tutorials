@@ -12,7 +12,7 @@ If you don't have MongoDB yet:
 	* `log`
 3. Go to the `bin` directory.
 <br />(e.g., `C:\Program Files\MongoDB\Server\3.4\bin`)
-4. Run `.\mongod --port 27017 --dbpath "[MongDB directory]\data\db"`.
+4. Run `.\mongod --port 27017 --dbpath "[MongoDB directory]\data\db"`.
 <br />(e.g., `.\mongod --port 27017 --dbpath "C:\Program Files\MongoDB\data\db"`)
 
 Install the required packages:
