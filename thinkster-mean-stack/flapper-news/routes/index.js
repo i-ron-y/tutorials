@@ -89,4 +89,5 @@ router.put('/posts/:post/comments/:comment/upvote', function(req, res, next) {
 		res.json(comment);
 	});
 });
+
 module.exports = router;
