@@ -8,6 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ````
 cd reactjs-tictactoe
+npm install
 npm start
 ````
 
