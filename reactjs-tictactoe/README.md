@@ -9,7 +9,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ````
 cd reactjs-tictactoe
 npm install
+````
+
+Then either:
+
+````
 npm start
+````
+
+or
+
+````
+yarn start
 ````
 
 Your app should now be accessible at http://localhost:3000.

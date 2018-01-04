@@ -9,7 +9,18 @@ Install the required packages directly from the [package.json](https://github.co
 ````
 cd react-yelp-clone
 npm install
+````
+
+Then either:
+
+````
 npm start
+````
+
+or
+
+````
+yarn start
 ````
 
 Your app should now be accessible at http://localhost:3000.

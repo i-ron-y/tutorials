@@ -8,7 +8,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ````
 cd redux-todo
-yarn setup
+npm install
+````
+
+Then either:
+
+````
+npm start
+````
+
+or
+
+````
 yarn start
 ````
 
